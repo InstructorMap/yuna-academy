@@ -437,6 +437,148 @@
         }
       ],
       "publication_status": "draft_requires_approval"
+    },
+    {
+      "seed": 202648,
+      "created_at": "2026-11-24T22:43:38.085880+00:00",
+      "version": "4.0",
+      "course": "Aromaterapia",
+      "style": "B",
+      "preset": "golden_dust",
+      "scenes": [
+        {
+          "asset": "yuna-ia-17",
+          "message": "Descubrí la aromaterapia",
+          "svg_preset": "golden_dust",
+          "style": "B",
+          "layers": [
+            "golden-dust.svg",
+            "gold-sparkles.svg"
+          ]
+        },
+        {
+          "asset": "yuna-ia-11",
+          "message": "Aprendé a tu ritmo",
+          "svg_preset": "golden_dust",
+          "style": "B",
+          "layers": [
+            "golden-dust.svg",
+            "gold-sparkles.svg"
+          ]
+        },
+        {
+          "asset": "yuna-ia-01",
+          "message": "Explorá YUNA Academy",
+          "svg_preset": "golden_dust",
+          "style": "B",
+          "layers": [
+            "golden-dust.svg",
+            "gold-sparkles.svg"
+          ]
+        },
+        {
+          "asset": "yuna-ia-10",
+          "message": "Descubrí la aromaterapia",
+          "svg_preset": "golden_dust",
+          "style": "B",
+          "layers": [
+            "golden-dust.svg",
+            "gold-sparkles.svg"
+          ]
+        },
+        {
+          "asset": "yuna-ia-13",
+          "message": "Aprendé a tu ritmo",
+          "svg_preset": "golden_dust",
+          "style": "B",
+          "layers": [
+            "golden-dust.svg",
+            "gold-sparkles.svg"
+          ]
+        },
+        {
+          "asset": "yuna-ia-02",
+          "message": "Explorá YUNA Academy",
+          "svg_preset": "golden_dust",
+          "style": "B",
+          "layers": [
+            "golden-dust.svg",
+            "gold-sparkles.svg"
+          ]
+        },
+        {
+          "asset": "yuna-ia-06",
+          "message": "Descubrí la aromaterapia",
+          "svg_preset": "golden_dust",
+          "style": "B",
+          "layers": [
+            "golden-dust.svg",
+            "gold-sparkles.svg"
+          ]
+        },
+        {
+          "asset": "yuna-ia-04",
+          "message": "Aprendé a tu ritmo",
+          "svg_preset": "golden_dust",
+          "style": "B",
+          "layers": [
+            "golden-dust.svg",
+            "gold-sparkles.svg"
+          ]
+        },
+        {
+          "asset": "yuna-ia-16",
+          "message": "Explorá YUNA Academy",
+          "svg_preset": "golden_dust",
+          "style": "B",
+          "layers": [
+            "golden-dust.svg",
+            "gold-sparkles.svg"
+          ]
+        }
+      ],
+      "qa": [
+        {
+          "file": "yuna-short-1.mp4",
+          "passed": true,
+          "streams": [
+            "audio",
+            "video"
+          ],
+          "bytes": 3463731,
+          "duration_seconds": 24.0,
+          "resolution_ok": true,
+          "requires_human_visual_approval": true
+        },
+        {
+          "file": "yuna-short-2.mp4",
+          "passed": true,
+          "streams": [
+            "audio",
+            "video"
+          ],
+          "bytes": 3684142,
+          "duration_seconds": 24.0,
+          "resolution_ok": true,
+          "requires_human_visual_approval": true
+        },
+        {
+          "file": "yuna-short-3.mp4",
+          "passed": true,
+          "streams": [
+            "audio",
+            "video"
+          ],
+          "bytes": 3617520,
+          "duration_seconds": 24.0,
+          "resolution_ok": true,
+          "requires_human_visual_approval": true
+        }
+      ],
+      "publication_status": "draft_requires_approval",
+      "official_url": "https://yuna-academy.vercel.app/",
+      "brand": "YUNA Academy",
+      "music_brand": "Yuna Sound Holistic"
     }
   ]
 }
